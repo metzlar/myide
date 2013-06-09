@@ -1,0 +1,4 @@
+myide
+=====
+
+My python IDE
